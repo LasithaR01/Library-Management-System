@@ -1,2 +1,2 @@
 # Library-Management-System
-Library management system project in C programming language
+Library management system project in C programming 
